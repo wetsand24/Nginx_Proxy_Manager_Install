@@ -8,6 +8,8 @@ updates and passwords are still up to you.
 
 Video: [Nginx Proxy Manager Setup 2026: Local SSL Without Port Forwarding](https://youtu.be/U9tIwCmWctc) on [@kadirrangwala](https://www.youtube.com/@kadirrangwala)
 
+My other videos used here: [Jellyfin setup](https://youtu.be/hurqeeMF53U) · [Vaultwarden setup](https://youtu.be/VUgmH43ek1g) · [Pi-hole setup](https://youtu.be/k9GPXPp1KU0) (local DNS records) · [Cloudflare Tunnel](https://youtu.be/-m-GpkTv3Lo) (reach an app from outside without the Tailscale app)
+
 Tested on Debian 13 with Nginx Proxy Manager 2.16.0.
 
 Placeholders used below. Replace them with your own values:

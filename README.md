@@ -25,7 +25,8 @@ Placeholders used below. Replace them with your own values:
 
 ## What you need
 
-- A Linux machine or VM on your network for the proxy, with a fixed IP. A DHCP reservation in your router is fine.
+- A 64-bit Linux machine or VM on your network for the proxy (amd64 or arm64), with a fixed IP. A DHCP reservation in your router is fine.
+- 2 CPU cores, 1 GB RAM and 8 GB disk.
   It needs `sudo` and `curl` (on Debian, as root: `apt install -y sudo curl`).
 - Your apps already running.
 - A free [DuckDNS](https://www.duckdns.org) account.
